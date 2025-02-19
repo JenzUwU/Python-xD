@@ -1,1 +1,1 @@
-# pewpew
+# Python course projects
